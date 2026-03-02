@@ -1,4 +1,4 @@
-# DKM Home - Teste Técnico Frontend
+# Bank Home Page - Teste Técnico Frontend
 
 Este projeto é uma aplicação mobile desenvolvida em React Native como parte de um teste técnico para a vaga de Desenvolvedor Frontend. A aplicação consiste em um fluxo de autenticação e uma interface principal responsiva.
 
@@ -22,7 +22,7 @@ Antes de começar, você precisará ter instalado:
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone <https://github.com/lucas-joakinson/DKM-Home>
+   git clone <https://github.com/lucas-joakinson/bank-home-page>
    ```
 2. Acesse a pasta do projeto:
    ```bash
